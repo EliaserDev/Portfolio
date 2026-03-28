@@ -37,15 +37,13 @@ Aplicación web enfocada en mejorar la presencia online de estudios de tatuajes,
 
 ## 📸 Preview
 
-![MockupLaDiva2](https://github.com/user-attachments/assets/45d39137-cc3a-4cbc-a053-5aa2516e4ffe)
-
-
+![MockupLaDiva2](https://github.com/user-attachments/assets/336f4302-081a-40b8-8d60-4e013433ae38)
 
 ---
 
 ## 🌐 Demo
 
-👉 [Probar demo!](https://ladivatattoo.vercel.app/)
+👉 [Probar demo](https://ladivatattoo.vercel.app/)
 
 ---
 
@@ -62,7 +60,7 @@ Aplicación web enfocada en mejorar la presencia online de estudios de tatuajes,
 
 * GitHub: [EliaserDev](https://github.com/EliaserDev)
 * LinkedIn: [Eliaser Pérez Yaque](https://www.linkedin.com/in/eliaser-perez-yaque-2456aa2a0/)
-* Email: [Contacta conmigo!](mailto:eliaserdev21@gmail.com)
+* Email: [Contacta conmigo](mailto:eliaserdev21@gmail.com)
 
 ---
 
