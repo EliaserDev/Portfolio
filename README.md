@@ -1,43 +1,78 @@
-# Astro Starter Kit: Minimal
+# 🚀 Portfolio - Desarrollador Web Fullstack
 
-```sh
-npm create astro@latest -- --template minimal
-```
+Bienvenido a mi portfolio como desarrollador web Fullstack.
+Este proyecto está diseñado para mostrar mis habilidades, proyectos reales y enfoque en desarrollo moderno.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+---
 
-## 🚀 Project Structure
+## 🧠 Sobre el proyecto
 
-Inside of your Astro project, you'll see the following folders and files:
+Este portfolio ha sido desarrollado con el objetivo de presentar mis proyectos de forma profesional, destacando especialmente una aplicación web para un estudio de tatuajes.
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+El enfoque principal ha sido crear una experiencia moderna, rápida y visualmente atractiva.
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+---
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+## 🛠️ Tecnologías utilizadas
 
-Any static assets, like images, can be placed in the `public/` directory.
+* ⚡ Astro
+* 🎨 Tailwind CSS
 
-## 🧞 Commands
+---
 
-All commands are run from the root of the project, from a terminal:
+## 💼 Proyecto destacado
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+### 🖋️ App para estudio de tatuajes
 
-## 👀 Want to learn more?
+Aplicación web enfocada en mejorar la presencia online de estudios de tatuajes, permitiendo mostrar trabajos y gestionar citas.
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+**Características:**
+
+* Interfaz moderna y responsive
+* Catálogo visual de trabajos
+* Estructura preparada para integración con backend
+* Arquitectura cliente-servidor
+
+---
+
+## 📸 Preview
+
+![MockupLaDiva2](https://github.com/user-attachments/assets/45d39137-cc3a-4cbc-a053-5aa2516e4ffe)
+
+
+
+---
+
+## 🌐 Demo
+
+👉 [Probar demo!](https://ladivatattoo.vercel.app/)
+
+---
+
+## 🎯 Objetivos
+
+* Mostrar proyectos reales
+* Aplicar buenas prácticas de desarrollo
+* Mejorar diseño y experiencia de usuario
+* Construir una marca personal como desarrollador
+
+---
+
+## 📬 Contacto
+
+* GitHub: [EliaserDev](https://github.com/EliaserDev)
+* LinkedIn: [Eliaser Pérez Yaque](https://www.linkedin.com/in/eliaser-perez-yaque-2456aa2a0/)
+* Email: [Contacta conmigo!](mailto:eliaserdev21@gmail.com)
+
+---
+
+## ✨ Notas
+
+Este proyecto sigue en constante mejora, incorporando nuevas funcionalidades, optimizaciones y mejoras de diseño.
+
+---
+
+# 💣 Autor
+
+Desarrollado por **Eliaser Pérez Yaque**
+Desarrollador Web Full Stack
